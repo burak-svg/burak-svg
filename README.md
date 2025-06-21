@@ -1,16 +1,13 @@
-## Hi there 👋
+# Merhaba! 👋
 
-<!--
-**burak-svg/burak-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir öğrenciyim ve programlama alanında yeniyim. Şu anda herhangi bir projem yok ama yakın zamanda projeler geliştirmeyi düşünüyorum. GitHub’da yeniyim ve hâlâ acemiyim. Burada bulunma amacım öğrenmek ve kendimi geliştirmek!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hakkımda Kısa Kısa:**
+- 👨‍🎓 Öğrenciyim
+- 💻 Programlamaya ilgi duyuyorum
+- 🚀 Yeni projeler üretmek istiyorum
+- 🌱 Gelişmeye ve öğrenmeye açığım
+
+Sen de benim gibi yeniysen ya da birlikte öğrenmek istersen, bana ulaşabilirsin!
